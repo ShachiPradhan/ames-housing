@@ -136,6 +136,12 @@ Or clone this repo and run locally:
 git clone https://github.com/ShachiPradhan/ames-housing.git
 cd ames-housing
 jupyter notebook ameshousing.ipynb
+---
+
+
+
+
+
 Executive Summary: Ames Housing Market Predictive Analytics & Machine Learning Pipeline
 Ames Housing Market Analysis & Predictive Modeling: Executive Summary
 1. Executive Overview & Strategic Problem Statement
